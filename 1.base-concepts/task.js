@@ -15,10 +15,10 @@ function solveEquation(a, b, c) {
 		arr.push(x1);
 		arr.push(x2);
 	}
-
+  return arr;
 
 }
-return arr;
+
 
 
 
